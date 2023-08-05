@@ -14,4 +14,5 @@ pip install gymnasium gputil tensorboard seaborn gymnasium[toy_text] glfw tqdm
 
 1. URL - https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 2. https://gymnasium.farama.org/tutorials/training_agents/FrozenLake_tuto/#sphx-glr-tutorials-training-agents-frozenlake-tuto-py
-3. 
+3. https://docs.ray.io/en/latest/rllib/package_ref/algorithm.html
+4. 
